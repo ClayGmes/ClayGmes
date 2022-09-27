@@ -2,10 +2,10 @@
 Games for school by BZHT
 
 
-[Among Us](https://strandedsunblockedgames.tk/among-us)
+[Among Us](https://ClayGmes.github.io/among-us)
 
-[Basketball Stars](https://strandedsunblockedgames.tk/basketball-stars)
+[Basketball Stars](https://ClayGmes.github.io/basketball-stars)
 
-[Backrooms](https://strandedsunblockedgames.tk/Backrooms)
+[Among Us](https://ClayGmes.github.io/among-us)
 
-[Reddit](https://strandedsunblockedgames.tk/Reddit)
+[Among Us](https://ClayGmes.github.io/among-us)
