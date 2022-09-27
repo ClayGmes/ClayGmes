@@ -11,3 +11,7 @@ Games for school by BZHT
 [Minecraft](https://ClayGmes.github.io/minecraft)
 
 [Retro bowl](https://ClayGmes.github.io/retro-bowl)
+
+[Bloons td](https://ClayGmes.github.io/bloonstd)
+
+[Bloons td 2](https://ClayGmes.github.io/bloonstd2)
