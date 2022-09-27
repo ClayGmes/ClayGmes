@@ -2,9 +2,9 @@
 Games for school by BZHT
 
 
-[Baldi's Basics](https://strandedsunblockedgames.tk/Baldi)
+[Among Uss](https://strandedsunblockedgames.tk/among-us)
 
-[Super Mario 64](https://strandedsunblockedgames.tk/Mario64)
+[Basketball Stars](https://strandedsunblockedgames.tk/basketball-stars)
 
 [Backrooms](https://strandedsunblockedgames.tk/Backrooms)
 
