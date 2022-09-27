@@ -8,4 +8,6 @@ Games for school by BZHT
 
 [Tunnel Rush](https://ClayGmes.github.io/tunnel-rush)
 
-[Among Us](https://ClayGmes.github.io/among-us)
+[Minecraft](https://ClayGmes.github.io/minecraft)
+
+[Retro bowl](https://ClayGmes.github.io/retro-bowl)
