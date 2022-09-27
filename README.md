@@ -6,6 +6,6 @@ Games for school by BZHT
 
 [Basketball Stars](https://ClayGmes.github.io/basketball-stars)
 
-[Among Us](https://ClayGmes.github.io/among-us)
+[Tunnel Rush](https://ClayGmes.github.io/tunnel-rush)
 
 [Among Us](https://ClayGmes.github.io/among-us)
