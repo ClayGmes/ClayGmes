@@ -2,7 +2,7 @@
 Games for school by BZHT
 
 
-[Among Uss](https://strandedsunblockedgames.tk/among-us)
+[Among Us](https://strandedsunblockedgames.tk/among-us)
 
 [Basketball Stars](https://strandedsunblockedgames.tk/basketball-stars)
 
