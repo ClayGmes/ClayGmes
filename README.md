@@ -19,3 +19,9 @@ Games for school by BZHT
 [CSGO Clicker](https://ClayGmes.github.io/papaspizzeria)
 
 [Doge Miner](https://ClayGmes.github.io/DogeMiner)
+
+[Bloxorz](https://ClayGmes.github.io/bloxorz)
+
+[Moto X3M winter](https://ClayGmes.github.io/motox3m-winter)
+
+[Dino Game](https://ClayGmes.github.io/chrome-dino)
