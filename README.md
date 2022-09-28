@@ -15,3 +15,7 @@ Games for school by BZHT
 [Bloons td](https://ClayGmes.github.io/bloonstd)
 
 [Bloons td 2](https://ClayGmes.github.io/bloonstd2)
+
+[CSGO Clicker](https://ClayGmes.github.io/papaspizzeria)
+
+[Doge Miner](https://ClayGmes.github.io/DogeMiner)
