@@ -16,11 +16,11 @@ Games for school by BZHT
 
 [Bloons td 2](https://ClayGmes.github.io/bloonstd2)
 
-[CSGO Clicker](https://ClayGmes.github.io/papaspizzeria)
+[CSGO Clicker](https://ClayGmes.github.io/csgo-clicker)
 
 [Doge Miner](https://ClayGmes.github.io/DogeMiner)
 
-[Bloxorz](https://ClayGmes.github.io/bloxorz)
+[Bloxorz](https://ClayGmes.github.io/bloxors)
 
 [Moto X3M winter](https://ClayGmes.github.io/motox3m-winter)
 
