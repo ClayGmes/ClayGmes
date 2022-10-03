@@ -25,3 +25,5 @@ Games for school by BZHT
 [Moto X3M winter](https://ClayGmes.github.io/motox3m-winter)
 
 [Dino Game](https://ClayGmes.github.io/chrome-dino)
+
+[Papa's Pizzeria](https://ClayGmes.github.io/papaspizzeria)
